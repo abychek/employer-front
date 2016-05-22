@@ -1,0 +1,26 @@
+{
+  "name": "employer-front",
+  "authors": [
+    "Alex Bychek <alexey.bychek94@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-route": "^1.5.5",
+    "angular-bootstrap": "^1.3.2",
+    "angular-animate": "^1.5.5",
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "angular-local-storage": "^0.2.7"
+  }
+}
